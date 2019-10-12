@@ -1,3 +1,5 @@
+# GUIDE
+
 It's a simple game of life (see online) program made using python3.
 
 There are 3 files:
